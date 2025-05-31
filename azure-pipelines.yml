@@ -19,5 +19,4 @@ steps:
 - script: gradle run
   displayName: 'Running gradle'
   
-  - script: gradle hello
-  displayName: 'Running gradle task'
+ 
